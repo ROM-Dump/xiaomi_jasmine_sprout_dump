@@ -1,0 +1,19 @@
+## jasmine-user 8.1.0 OPM1.171019.011 V9.6.17.0.ODIMIFE release-keys
+- Manufacturer: xiaomi
+- Platform: sdm660
+- Codename: jasmine_sprout
+- Brand: xiaomi
+- Flavor: jasmine-user
+- Release Version: 8.1.0
+- Kernel Version: 4.4.78
+- Id: OPM1.171019.011
+- Incremental: V9.6.17.0.ODIMIFE
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: true
+- Locale: en-US
+- Screen Density: undefined
+- Fingerprint: xiaomi/jasmine/jasmine_sprout:8.1.0/OPM1.171019.011/V9.6.17.0.ODIMIFE:user/release-keys
+- OTA version: 
+- Branch: jasmine-user-8.1.0-OPM1.171019.011-V9.6.17.0.ODIMIFE-release-keys
+- Repo: xiaomi_jasmine_sprout_dump
